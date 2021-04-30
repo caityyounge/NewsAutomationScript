@@ -1,4 +1,4 @@
-# NewsAutomationScript
+# News Automation Script
 > An automation and web-scraping script that emails the user news article links daily based on specified keywords. 
 ---
 
